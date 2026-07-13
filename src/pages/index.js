@@ -12,6 +12,15 @@ export default function Home() {
           height={300} 
         />
         <br></br>
+             <br></br>
+       <Image 
+          src="/images/gatonoteclado.jpg" 
+          alt="Gatinho fofo programando" 
+          width={500} 
+          height={300} 
+        />
+        <br></br> 
+
       <Link href="/about">
         About
       </Link>
